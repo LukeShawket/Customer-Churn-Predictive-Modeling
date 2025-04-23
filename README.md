@@ -8,3 +8,5 @@ This project aims to predict customer churn using Logistic Regression and SMOTE 
 * Predictive Modeling: Implementing Logistic Regression and tuning decision thresholds.    
 * Oversampling (SMOTE): Balancing data to improve recall.
 * Model Evaluation: Using precision, recall, F1-score to assess performance.
+## Dataset
+Source: [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
